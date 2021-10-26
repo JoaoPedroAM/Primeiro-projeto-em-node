@@ -1,0 +1,27 @@
+{
+  "name": "perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma para perguntas e respostas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPedroAM/Perguntas-e-respostas-com-node-.git"
+  },
+  "author": "João Pedro Andrade Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPedroAM/Perguntas-e-respostas-com-node-/issues"
+  },
+  "homepage": "https://github.com/JoaoPedroAM/Perguntas-e-respostas-com-node-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "nodemon": "^2.0.14",
+    "sequelize": "^6.8.0"
+  }
+}
